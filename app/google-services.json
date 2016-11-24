@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "222426657563",
+    "firebase_url": "https://learn-db600.firebaseio.com",
+    "project_id": "learn-db600",
+    "storage_bucket": "learn-db600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222426657563:android:6b75f9dd0aead6ab",
+        "android_client_info": {
+          "package_name": "com.learn.learfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222426657563-h28l86i87uim3bijen5dapfc3g51srl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVl5uKwgYrweAt-IA2F9WSU7Xf1u4BhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
